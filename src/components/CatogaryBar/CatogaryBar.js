@@ -1,10 +1,11 @@
 import React from 'react'
+import { Container } from './CatogaryBarComponents'
 
 const CatogaryBar = () => {
     return (
-        <div>
+        <Container>
             
-        </div>
+        </Container>
     )
 }
 

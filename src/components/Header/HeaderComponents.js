@@ -4,7 +4,9 @@ const  Container = styled.div`
     width : 100%;
     height : 70px;
     background-color:white;
-    position:sticky;
+    position: fixed;
+    top: 0;
+    overflow: hidden;
     display:flex;
 
 `
