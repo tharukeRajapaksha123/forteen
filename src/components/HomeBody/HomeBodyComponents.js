@@ -10,9 +10,10 @@ const Body = styled.main`
 
 const SubHeader = styled.div`
     width : 100%;
-    min-height: calc(100vh - 70px);
+    min-height: calc(100vh - 180px);
     background-color: #EFEFEF;
     display: flex;
+   
 `
 
 export {Body,SubHeader}
